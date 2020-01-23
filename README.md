@@ -1,6 +1,6 @@
 # ML_Inside_Out
 
-This repo contains Jupyter notebooks which explains how each algorithms behaves intuitively with gifs and images.
+This repository contains Jupyter notebooks explaining how each algorithm behaves intuitively with GIFs and images.
 
 If it is a classification algorithm then how it behaves with different shapes of data(like circular or elipsical etc..,). You can change the data set and play with it..
 
